@@ -1,0 +1,15 @@
+C:\Users\Carlos Felipe\source\repos\Exercicio\Exercicio\bin\Debug\netcoreapp2.0\Principal.deps.json
+C:\Users\Carlos Felipe\source\repos\Exercicio\Exercicio\bin\Debug\netcoreapp2.0\Principal.runtimeconfig.json
+C:\Users\Carlos Felipe\source\repos\Exercicio\Exercicio\bin\Debug\netcoreapp2.0\Principal.runtimeconfig.dev.json
+C:\Users\Carlos Felipe\source\repos\Exercicio\Exercicio\bin\Debug\netcoreapp2.0\Principal.dll
+C:\Users\Carlos Felipe\source\repos\Exercicio\Exercicio\obj\Debug\netcoreapp2.0\Principal.csprojResolveAssemblyReference.cache
+C:\Users\Carlos Felipe\source\repos\Exercicio\Exercicio\obj\Debug\netcoreapp2.0\Principal.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Felipe\source\repos\Exercicio\Exercicio\obj\Debug\netcoreapp2.0\Principal.AssemblyInfoInputs.cache
+C:\Users\Carlos Felipe\source\repos\Exercicio\Exercicio\obj\Debug\netcoreapp2.0\Principal.AssemblyInfo.cs
+C:\Users\Carlos Felipe\source\repos\Exercicio\Exercicio\bin\Debug\netcoreapp2.0\Principal.pdb
+C:\Users\Carlos Felipe\source\repos\Exercicio\Exercicio\bin\Debug\netcoreapp2.0\Domain.dll
+C:\Users\Carlos Felipe\source\repos\Exercicio\Exercicio\bin\Debug\netcoreapp2.0\Shared.dll
+C:\Users\Carlos Felipe\source\repos\Exercicio\Exercicio\bin\Debug\netcoreapp2.0\Domain.pdb
+C:\Users\Carlos Felipe\source\repos\Exercicio\Exercicio\bin\Debug\netcoreapp2.0\Shared.pdb
+C:\Users\Carlos Felipe\source\repos\Exercicio\Exercicio\obj\Debug\netcoreapp2.0\Principal.dll
+C:\Users\Carlos Felipe\source\repos\Exercicio\Exercicio\obj\Debug\netcoreapp2.0\Principal.pdb

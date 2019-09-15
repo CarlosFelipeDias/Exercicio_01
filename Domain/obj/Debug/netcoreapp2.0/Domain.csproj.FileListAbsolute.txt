@@ -1,0 +1,11 @@
+C:\Users\Carlos Felipe\source\repos\Exercicio\Domain\bin\Debug\netcoreapp2.0\Domain.deps.json
+C:\Users\Carlos Felipe\source\repos\Exercicio\Domain\bin\Debug\netcoreapp2.0\Domain.dll
+C:\Users\Carlos Felipe\source\repos\Exercicio\Domain\obj\Debug\netcoreapp2.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Felipe\source\repos\Exercicio\Domain\obj\Debug\netcoreapp2.0\Domain.AssemblyInfoInputs.cache
+C:\Users\Carlos Felipe\source\repos\Exercicio\Domain\obj\Debug\netcoreapp2.0\Domain.AssemblyInfo.cs
+C:\Users\Carlos Felipe\source\repos\Exercicio\Domain\bin\Debug\netcoreapp2.0\Domain.pdb
+C:\Users\Carlos Felipe\source\repos\Exercicio\Domain\bin\Debug\netcoreapp2.0\Shared.dll
+C:\Users\Carlos Felipe\source\repos\Exercicio\Domain\bin\Debug\netcoreapp2.0\Shared.pdb
+C:\Users\Carlos Felipe\source\repos\Exercicio\Domain\obj\Debug\netcoreapp2.0\Domain.csprojResolveAssemblyReference.cache
+C:\Users\Carlos Felipe\source\repos\Exercicio\Domain\obj\Debug\netcoreapp2.0\Domain.dll
+C:\Users\Carlos Felipe\source\repos\Exercicio\Domain\obj\Debug\netcoreapp2.0\Domain.pdb
