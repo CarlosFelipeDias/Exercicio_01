@@ -55,7 +55,8 @@ namespace Exercicio.Principal
             {
 
                 Console.WriteLine($"Saldo = {acount.Balance}");
-                
+                Console.WriteLine($"limite = {acount.Limite}");
+
             }
             Console.ReadKey();
         }
